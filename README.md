@@ -1,5 +1,5 @@
 # AnimeEZ
-# A new ui is out on live website (https://animeez.live), Its in NextJS. Whenever stars reach 30. I will Update the repo to the new ui.
+# NEW UI IS OUT!! CHECK V2 BRANCH
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
 # Features?
 --> Its lightweight (after the anime details are set in db XD) <br>
@@ -10,7 +10,6 @@
 --> Netflix like frontend (I dont think so) <br> <br> 
 
 # Example and Demo
---> Demo website - https://animeez.tk <br>
 --> Video - 
 
 https://user-images.githubusercontent.com/77879772/163311540-1842f10e-298e-4f82-a6e2-908edce5f581.mp4
@@ -19,7 +18,6 @@ https://user-images.githubusercontent.com/77879772/163311540-1842f10e-298e-4f82-
 
 # Notice 
 **We are not officially on any social media other than github** <br>
-**On 30 Stars i will start working on adding manga also**
 
 # Scraper for Anime Streaming and some others things
 --> Scraper i used for getting m3u8 url for watching anime, episodes for an anime and many more... is [@riimuru](https://github.com/riimuru).   
