@@ -1,7 +1,7 @@
-# AnimeEZ
+# Otaku World
 # NEW UI IS OUT!! CHECK V2 BRANCH
-**AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
-# Features?
+**AnimeEZ - An Anime Streaming website (Demo -  BTW ITS MADE IN HTML** <br>
+# Features?https://github.com/Otakusonu/Otakuworld.github.io/tree/main
 --> Its lightweight (after the anime details are set in db XD) <br>
 --> Not Much complicated (Except api.js file) <br>
 --> Uses Gogoanime as a source for all the things <br>
@@ -42,8 +42,6 @@ He's scraper repo is - https://github.com/riimuru/gogoanime. Checkout his other 
 
 # Running 
 Just click run if its repl otherwise type `node index.js` in console. <br> 
-
-# ITS NOT MADE FOR PRODUCTION USE AND DON'T TRY TO COPY THE FULL WEBSITE ATLEAST EDIT SOMETHING
 
 # Quick.db Being Used 
 --> [Quick.db](https://quickdb.js.org/) is used as saving information and again saving the information after sometime to update it. Like Homepage which updates information every 7 Minutes (In Starting the code After 7 minutes the homepage's data will be okay).
