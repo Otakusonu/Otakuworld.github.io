@@ -1,6 +1,6 @@
 # Otaku World
 # NEW UI IS OUT!! CHECK V2 BRANCH
-**AnimeEZ - An Anime Streaming website (Demo -  BTW ITS MADE IN HTML** <br>
+**Otaku World - An Anime Streaming website (Demo -  BTW ITS MADE IN HTML** <br>
 # Features?https://github.com/Otakusonu/Otakuworld.github.io/tree/main
 --> Its lightweight (after the anime details are set in db XD) <br>
 --> Not Much complicated (Except api.js file) <br>
